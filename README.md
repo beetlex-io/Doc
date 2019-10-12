@@ -10,6 +10,7 @@
 * [统一验证](https://github.com/IKende/Bumblebee/wiki/%E7%BB%9F%E4%B8%80%E8%AF%B7%E6%B1%82%E9%AA%8C%E8%AF%81)
 * [并发控制](https://github.com/IKende/Bumblebee/wiki/%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6)
 * [日志处理](https://github.com/IKende/Bumblebee/wiki/%E6%97%A5%E5%BF%97%E5%A4%84%E7%90%86)
+* [输出缓存](https://github.com/IKende/Bumblebee/wiki/%E7%BD%91%E5%85%B3%E7%BC%93%E5%AD%98)
 ## FastHttpApi(Web服务)
 * [使用入门](https://github.com/IKende/FastHttpApi/wiki/%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8)
 * [基础配置](https://github.com/IKende/FastHttpApi/wiki/%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
