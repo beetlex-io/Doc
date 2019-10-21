@@ -35,6 +35,8 @@
 * [Javascript插件](https://github.com/IKende/FastHttpApi/wiki/JavaScript%E6%8F%92%E4%BB%B6)
 * [使用Autofac注入](https://github.com/IKende/FastHttpApi/wiki/%E4%BD%BF%E7%94%A8Autofac%E6%B3%A8%E5%85%A5)
 * [使用Hosting和DI注入](https://github.com/IKende/FastHttpApi/wiki/Hosting%E5%92%8CDI%E6%B3%A8%E5%85%A5%E6%8E%A7%E5%88%B6%E5%99%A8)
+* [IP访问控制](https://github.com/IKende/FastHttpApi/wiki/IP%E8%AE%BF%E9%97%AE%E9%99%90%E5%88%B6)
+* [Url重写向](https://github.com/IKende/FastHttpApi/wiki/Url%E9%87%8D%E5%86%99)
 ## XRPC
 * [使用](https://github.com/IKende/XRPC/wiki/%E4%BD%BF%E7%94%A8)
 * [协议描述](https://github.com/IKende/XRPC/wiki/%E5%8D%8F%E8%AE%AE%E6%8F%8F%E8%BF%B0)
