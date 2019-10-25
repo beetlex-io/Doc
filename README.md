@@ -13,6 +13,7 @@
 * [输出缓存](https://github.com/IKende/Bumblebee/wiki/%E7%BD%91%E5%85%B3%E7%BC%93%E5%AD%98)
 * [Url重写](https://github.com/IKende/Bumblebee/wiki/Url%E9%87%8D%E5%86%99)
 * [运行日志查看](https://github.com/IKende/Bumblebee/wiki/%E8%BF%90%E8%A1%8C%E6%97%A5%E5%BF%97)
+* [使用consul服务发现](https://github.com/IKende/Bumblebee/wiki/%E4%BD%BF%E7%94%A8consul%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0%E6%8F%92%E4%BB%B6)
 ## FastHttpApi(Web服务)
 * [使用入门](https://github.com/IKende/FastHttpApi/wiki/%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8)
 * [基础配置](https://github.com/IKende/FastHttpApi/wiki/%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
@@ -38,7 +39,8 @@
 * [使用Autofac注入](https://github.com/IKende/FastHttpApi/wiki/%E4%BD%BF%E7%94%A8Autofac%E6%B3%A8%E5%85%A5)
 * [使用Hosting和DI注入](https://github.com/IKende/FastHttpApi/wiki/Hosting%E5%92%8CDI%E6%B3%A8%E5%85%A5%E6%8E%A7%E5%88%B6%E5%99%A8)
 * [IP访问控制](https://github.com/IKende/FastHttpApi/wiki/IP%E8%AE%BF%E9%97%AE%E9%99%90%E5%88%B6)
-* [Url重写向](https://github.com/IKende/FastHttpApi/wiki/Url%E9%87%8D%E5%86%99)
+* [Url重写](https://github.com/IKende/FastHttpApi/wiki/Url%E9%87%8D%E5%86%99)
+* [vuejs和beetlexjs整合](https://github.com/IKende/FastHttpApi/wiki/vuejs%E5%92%8Cbeetlexjs%E6%95%B4%E5%90%88)
 ## XRPC
 * [使用](https://github.com/IKende/XRPC/wiki/%E4%BD%BF%E7%94%A8)
 * [协议描述](https://github.com/IKende/XRPC/wiki/%E5%8D%8F%E8%AE%AE%E6%8F%8F%E8%BF%B0)
